@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*
-Template Name: Bolby
+Template Name: rushi
 Version: 1.0
 Author: jthemes
 Author URI: http://themeforest.net/user/jthemes
@@ -956,7 +956,7 @@ section.home.light .social-icons li a:hover {
   right: 10%;
 }
 
-.elementor-widget-bolby-shapes {
+.elementor-widget-rushi-shapes {
   position: absolute !important;
   top: 0;
   left: 0;
@@ -965,7 +965,7 @@ section.home.light .social-icons li a:hover {
   height: 100%;
   width: 100% !important;
 }
-.elementor-widget-bolby-shapes.elementor-element-edit-mode {
+.elementor-widget-rushi-shapes.elementor-element-edit-mode {
   height: 100px;
   top: auto;
   bottom: 20%;
