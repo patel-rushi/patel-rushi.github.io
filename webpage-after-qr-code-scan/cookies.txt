@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+qrcodes.pro	TRUE	/	FALSE	1999999999	visitor-id	1667930775JivQf8
+qrcodes.pro	TRUE	/	FALSE	1999999999	mappable_id	1667930775JivQf8_1667930778
+qrcodes.pro	TRUE	/	FALSE	1999999999	access_token	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtYXBwYWJsZUlEIjoiMTY2NzkzMDc3NUppdlFmOF8xNjY3OTMwNzc4IiwidGltZXN0YW1wIjoxNjY3OTMwNzc4MTM0LCJpYXQiOjE2Njc5MzA3NDgsImV4cCI6MTY2NzkzMTA3OH0.DC4oNUcMBcR6OOxgDz5pqepzGzxlU5AiCu_uPirAR0Y
+
